@@ -6,6 +6,8 @@
 **Status:** Proven  
 **Author:** VaporWare Labs
 
+![Finished Dish](images/black-pepper-pineapple-fried-rice-001.jpeg)
+
 ---
 
 ## Objective
