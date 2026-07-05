@@ -2,10 +2,12 @@
 
 **Version:** v1.0  
 **Status:** Proven  
-**Author:** VaporWare Labs
-**Prep Time:** 30 minutes (plus overnight rice/chicken)
-**Cook Time:** 20 minutes
-**Servings:** 4–6
+**Author:** VaporWare Labs  
+**Prep Time:** 30 minutes (plus overnight rice/chicken)  
+**Cook Time:** 20 minutes  
+**Servings:** 4–6  
+
+**Last Cooked:** July 5, 2026  
 
 ---
 
@@ -20,13 +22,13 @@
 
 ## Flavor Profile
 
-🟡 Sweet
+🟡 Sweet  
 
-🟤 Savory
+🟤 Savory 
 
-⚫ Pepper Forward
+⚫ Pepper Forward  
 
-🌶 Mild Heat (optional)
+🌶 Mild Heat (optional)  
 
 ---
 
