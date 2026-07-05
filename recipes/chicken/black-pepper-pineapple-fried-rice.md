@@ -1,23 +1,11 @@
-# VaporCHEF
-
 # Black Pepper Pineapple Chicken Fried Rice
 
 **Version:** v1.0  
 **Status:** Proven  
 **Author:** VaporWare Labs
-
-![Finished Dish](images/black-pepper-pineapple-fried-rice-001.jpeg)
-
----
-
-## Objective
-
-Create a sweet and savory fried rice with a noticeable black pepper finish and fresh pineapple flavor. The goal is a dish that balances sweetness, saltiness, umami, and spice without becoming overly saucy.
-
----
-
-##Flavor Profile
-Sweet • Savory • Pepper Forward
+**Prep Time:** 30 minutes (plus overnight rice/chicken)
+**Cook Time:** 20 minutes
+**Servings:** 4–6
 
 ---
 
@@ -26,6 +14,25 @@ Sweet • Savory • Pepper Forward
 ⭐⭐⭐⭐⭐
 
 > This version is a keeper.
+
+
+![Finished Dish](../../images/black-pepper-pineapple-fried-rice/black-pepper-pineapple-fried-rice-001.jpeg)
+
+## Flavor Profile
+
+🟡 Sweet
+
+🟤 Savory
+
+⚫ Pepper Forward
+
+🌶 Mild Heat (optional)
+
+---
+
+## Objective
+
+Create a sweet and savory fried rice with a noticeable black pepper finish and fresh pineapple flavor. The goal is a dish that balances sweetness, saltiness, umami, and spice without becoming overly saucy.
 
 ---
 
@@ -79,8 +86,8 @@ Cook the rice the day before and refrigerate overnight.
 ## Other
 
 - 2 eggs
-- 2 tablespoons butter
-- Peanuts (optional)
+- 2 tablespoons butter (preferred) or neutral cooking oil
+- Chopped Peanuts (optional)
 - Chili oil (optional)
 
 ---
@@ -190,10 +197,9 @@ Serve immediately.
 
 # Lessons Learned
 
-- Fresh pineapple works much better than canned.
 - Day-old rice makes a huge difference.
 - Fresh cracked black pepper is one of the primary flavors—not just a seasoning.
-- Adding pineapple at the end preserves its texture.
+- Cooking the pineapple with the vegetables allows it to lightly caramelize and become part of the flavor base.
 - The combination of pineapple juice and Worcestershire creates an excellent sweet/umami balance.
 
 ### Pepper Philosophy
