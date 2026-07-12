@@ -1,5 +1,7 @@
 # Black Pepper Chicken Thighs with Fried Rice & Homemade Stock
 
+[!Black Pepper Chicken](../../images/black-pepper-chicken/black-pepper-chicken-002.png)
+
 A VaporCHEF weekend recipe that transforms one package of chicken thighs into three meals:
 
 - Black Pepper Chicken
